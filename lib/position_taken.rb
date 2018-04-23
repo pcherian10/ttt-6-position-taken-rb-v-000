@@ -1,5 +1,4 @@
-def position_taken? (board, index)
-  if(board[index] == " " || ""))
+def position_taken? (board, i))
     return false
   else
     return true
